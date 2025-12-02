@@ -22,5 +22,6 @@ lxml
 pyyaml
 pdoc3
 tox
+allure-pytest
 dataclasses; python_version < '3.7'
 -e ./apiclient
